@@ -1,3 +1,5 @@
+package tests;
+
 //        Testas “žalias” jeigu 995 dalijasi iš 3 (be liekanos)
 //        Testas “žalias” jeigu šiandien trečiadienis
 //        Testas “žalias” po to, kai “palaukia” 5 sekundes
